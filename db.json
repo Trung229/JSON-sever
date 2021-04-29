@@ -1,0 +1,19 @@
+{
+    "course": [{
+            "id": 1,
+            "img": "https://wallpaperaccess.com/full/4901203.jpg",
+            "name": "Kien thuc cho nguoi moi bat dau",
+            "description": "Get a full fake REST API with zero coding in less than 30 seconds (seriously)"
+        },
+        {
+            "name": "Xay dung web voi nodejs 2",
+            "description": "1 REST API",
+            "id": 2
+        },
+        {
+            "name": "ChainSaw Man",
+            "description": "Read manga",
+            "id": 3
+        }
+    ]
+}
